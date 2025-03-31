@@ -14,5 +14,7 @@ export default defineConfig({
     footer: 'Copyright © 2025 360全景漫游',
   },
   // 其他 dumi 配置
+  base: '/tour360/', // 仓库名称
+  publicPath: '/tour360/', // 仓库名称
   favicons: ['/favicon.ico'],
 });

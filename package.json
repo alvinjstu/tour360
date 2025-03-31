@@ -7,7 +7,9 @@
     "dev": "dumi dev",
     "build": "dumi build",
     "preview": "dumi preview",
-    "prepare": "husky install && dumi setup"
+    "prepare": "husky install && dumi setup",
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "authors": [
     "alvin"
@@ -29,6 +31,7 @@
     "dumi": "^2.4.13",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "gh-pages": "^6.1.0"
   }
 }
