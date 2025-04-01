@@ -37,4 +37,16 @@
           `,paraId:0},{value:"\u626B\u7801\u52A0\u5165\u7FA4\u804A",paraId:9,tocIndex:1},{value:`
         `,paraId:0},{value:`
       `,paraId:0},{value:`
+      `,paraId:0},{value:`
+        `,paraId:0},{value:`
+       `,paraId:0},{value:`
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f70a305663d053889db15292170efb05";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+`,paraId:0},{value:`
+      `,paraId:0},{value:`
     `,paraId:0}]}}]);
